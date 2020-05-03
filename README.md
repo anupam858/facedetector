@@ -4,7 +4,7 @@ Detecting face using opencv with input capabilities from ip cameras. Part of a b
 Dependencies: 1. Numpy 2. OpenCV 3. imutils
 
 imutils is a python library that has opencv convinience functions. It's used here to improve fps of ip cameras.
-
+use "pip install imutils" to install the library. 
 
 You can use an IP camera for live video input by providing the video link.
 
